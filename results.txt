@@ -1,0 +1,57 @@
+Execution time: 0.046628s
+Number of links with non-zero capacities: 42
+Load on transit nodes:
+	transit node: 1, load: 130.5
+	transit node: 2, load: 130.5
+	transit node: 3, load: 131.0
+Highest capacities:
+	d17: 35.0
+
+
+Execution time: 0.096531s
+Number of links with non-zero capacities: 53
+Load on transit nodes:
+	transit node: 1, load: 98.0
+	transit node: 2, load: 98.0
+	transit node: 3, load: 98.0
+	transit node: 4, load: 98.0
+Highest capacities:
+	d37: 30.0
+
+Execution time: 0.101420s
+Number of links with non-zero capacities: 67
+Load on transit nodes:
+	transit node: 1, load: 78.5
+	transit node: 2, load: 78.0
+	transit node: 3, load: 78.5
+	transit node: 4, load: 78.5
+	transit node: 5, load: 78.5
+Highest capacities:
+	c74: 30.0
+
+
+Execution time: 0.132547s
+Number of links with non-zero capacities: 76
+Load on transit nodes:
+	transit node: 1, load: 65.5
+	transit node: 2, load: 65.0
+	transit node: 3, load: 65.5
+	transit node: 4, load: 65.5
+	transit node: 5, load: 65.0
+	transit node: 6, load: 65.5
+Highest capacities:
+	d66: 31.0
+
+Execution time: 0.148758s
+Number of links with non-zero capacities: 90
+Load on transit nodes:
+	transit node: 1, load: 56.0
+	transit node: 2, load: 56.0
+	transit node: 3, load: 56.0
+	transit node: 4, load: 56.0
+	transit node: 5, load: 56.0
+	transit node: 6, load: 56.0
+	transit node: 7, load: 56.0
+Highest capacities:
+	c54: 19.0
+	d74: 19.0
